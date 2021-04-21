@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">theMovieDBApp</string>
+    <string name="texto_login">Inicia sesión</string>
+    <string name="et_user_mail">Introduce tu email</string>
+    <string name="et_user_pass">Introduce tu password</string>
+    <string name="bt_iniciar_sesion">Iniciar sesión</string>
+    <string name="login_view_campos_incompletos">Los campos son obligatorios</string>
+    <string name="login_view_error">No existe usuario con esos datos</string>
+    <string name="bt_actuales_principal">Listar las más actuales</string>
+    <string name="tv_peliculas">Top películas</string>
+    <string name="tv_series">Top series</string>
+    <string name="iv_imagen_tarjeta">Imagen</string>
+    <string name="password_olvidada">Password olvidada</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+</resources>
